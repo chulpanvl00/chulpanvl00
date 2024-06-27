@@ -47,7 +47,7 @@ Download .pbix [here](https://github.com/chulpanvl00/portfolio/blob/main/dashboa
 some text
 
 ### ODDS and Svetofor
-<img src="https://github.com/chulpanvl00/chulpanvl00/assets/69518110/21a2d69e-c325-4b35-8a62-8f270b60e2f1" width="500" height="300" > <img src="https://github.com/chulpanvl00/chulpanvl00/assets/69518110/c060e665-5e6f-4183-af77-002f9667945d" width="500" height="300" > 
+<img src="https://github.com/chulpanvl00/chulpanvl00/assets/69518110/21a2d69e-c325-4b35-8a62-8f270b60e2f1" width="490" height="300" > <img src="https://github.com/chulpanvl00/chulpanvl00/assets/69518110/c060e665-5e6f-4183-af77-002f9667945d" width="490" height="300" > 
 
 <img src="https://github.com/chulpanvl00/chulpanvl00/assets/69518110/f52336a6-fbc5-4a56-9d87-75c3d6b96826" width="500" height="300" > <img src="https://github.com/chulpanvl00/chulpanvl00/assets/69518110/cc2385a0-1405-42fa-a2b1-5b0f3686018d" width="500" height="300" > 
 
