@@ -11,7 +11,8 @@ Here, you’ll find a range of dashboards: some are demonstrations using mock da
 
 ### EVS analytics
 Download .pbix [here](https://github.com/chulpanvl00/portfolio/blob/main/dashboards/EVS_dashboard.pbix).
-![ЭЗС](https://github.com/chulpanvl00/PowerBI-dashboards/assets/69518110/65f24140-77e6-4253-bea7-b67ae31fe056)
+
+<img src="https://github.com/chulpanvl00/PowerBI-dashboards/assets/69518110/65f24140-77e6-4253-bea7-b67ae31fe056" width="600" height="340" >
 
 Данный дашборд представляет собой анализ работы электрических зарядных станций (ЭЗС) компании за период с 01.01.2021 по 31.12.2022. Он содержит информацию о количестве и продолжительности зарядных сессий, а также о доходе, полученном с каждой локации.
 
@@ -47,7 +48,7 @@ Download .pbix [here](https://github.com/chulpanvl00/portfolio/blob/main/dashboa
 some text
 
 ### ODDS
-some text
+<img src="https://github.com/chulpanvl00/chulpanvl00/assets/69518110/21a2d69e-c325-4b35-8a62-8f270b60e2f1" width="500" height="300" > 
 
 ### Accounts receivable
 some text
