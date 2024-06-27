@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there 👋 Welcome to my BI projects portfolio!
 
-Welcome to my BI projects portfolio. Here, you’ll find a range of dashboards: some are demonstrations using mock data (available for download as .pbix files), and others are previews of work with proprietary data (displayed in part due to confidentiality).
+Here, you’ll find a range of dashboards: some are demonstrations using mock data (available for download as .pbix files), and others are previews of work with proprietary data (displayed in part due to confidentiality).
 
 ### My Projects
 1. [EVS analytics](#evs-analytics)
