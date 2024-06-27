@@ -5,9 +5,8 @@ Here, you’ll find a range of dashboards: some are demonstrations using mock da
 ### My Projects
 1. [EVS analytics](#evs-analytics)
 2. [Analytics for malls](#analytics-for-malls)
-3. [ODDS](#odds)
+3. [ODDS & Svetofor](#odds-and-svetofor)
 4. [Accounts receivable](#accounts-receivable)
-5. [Svetofor](#svetofor)
 
 ### EVS analytics
 Download .pbix [here](https://github.com/chulpanvl00/portfolio/blob/main/dashboards/EVS_dashboard.pbix).
@@ -47,14 +46,14 @@ Download .pbix [here](https://github.com/chulpanvl00/portfolio/blob/main/dashboa
 ### Analytics for malls
 some text
 
-### ODDS
-<img src="https://github.com/chulpanvl00/chulpanvl00/assets/69518110/21a2d69e-c325-4b35-8a62-8f270b60e2f1" width="500" height="300" > 
+### ODDS and Svetofor
+<img src="https://github.com/chulpanvl00/chulpanvl00/assets/69518110/21a2d69e-c325-4b35-8a62-8f270b60e2f1" width="500" height="300" > <img src="https://github.com/chulpanvl00/chulpanvl00/assets/69518110/c060e665-5e6f-4183-af77-002f9667945d" width="500" height="300" > 
+
+<img src="https://github.com/chulpanvl00/chulpanvl00/assets/69518110/f52336a6-fbc5-4a56-9d87-75c3d6b96826" width="500" height="300" > <img src="https://github.com/chulpanvl00/chulpanvl00/assets/69518110/cc2385a0-1405-42fa-a2b1-5b0f3686018d" width="500" height="300" > 
 
 ### Accounts receivable
-some text
-
-### Svetofor
-some text
+<img src="https://github.com/chulpanvl00/chulpanvl00/assets/69518110/d4d0b921-effd-4ad4-82f5-0c1ece22df6c" width="500" height="300" > <img src="https://github.com/chulpanvl00/chulpanvl00/assets/69518110/7ba09967-503e-4599-abc8-4f0d82ec6055" width="500" height="300" >
+<img src="https://github.com/chulpanvl00/chulpanvl00/assets/69518110/31d2dd73-7b1b-4d95-acff-4aa39414d21c" width="500" height="300" > <img src="https://github.com/chulpanvl00/chulpanvl00/assets/69518110/aad8359e-70ba-4e1f-8c16-d31b10f548de" width="500" height="300" >
 
 <!--
 **chulpanvl00/chulpanvl00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
