@@ -3,10 +3,15 @@
 Here, you’ll find a range of dashboards: some are demonstrations using mock data (available for download as .pbix files), and others are previews of work with proprietary data (displayed in part due to confidentiality).
 
 ### My Projects
-1. [EVS analytics](#evs-analytics)
-2. [Analytics for malls](#analytics-for-malls)
+1. [Analytics for the Pilot Mall](#analytics-for-the-pilot-mall)
+2. [EVS analytics](#evs-analytics)
 3. [ODDS & Svetofor](#odds-and-svetofor)
 4. [Accounts receivable](#accounts-receivable)
+
+### Analytics for the Pilot Mall
+Download .pbix [here]
+
+<img src="https://github.com/chulpanvl00/chulpanvl00/assets/69518110/1c7384b5-8178-46eb-83ae-48b9101a1be3" width="600" height="340" >
 
 ### EVS analytics
 Download .pbix [here](https://github.com/chulpanvl00/portfolio/blob/main/dashboards/EVS_dashboard.pbix).
@@ -43,8 +48,6 @@ Download .pbix [here](https://github.com/chulpanvl00/portfolio/blob/main/dashboa
 * Рассмотреть **возможность снижения тарифов** на зарядку в ЖК Лазурный в непиковые часы.
 * Предложить **партнерские программы управляющей компании ЖК Лазурный**.
 
-### Analytics for malls
-some text
 
 ### ODDS and Svetofor
 <img src="https://github.com/chulpanvl00/chulpanvl00/assets/69518110/21a2d69e-c325-4b35-8a62-8f270b60e2f1" width="360" height="230" > <img src="https://github.com/chulpanvl00/chulpanvl00/assets/69518110/c060e665-5e6f-4183-af77-002f9667945d" width="360" height="230" > 
