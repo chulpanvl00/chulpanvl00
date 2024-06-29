@@ -22,7 +22,7 @@ Download .pbix [here](https://github.com/chulpanvl00/portfolio/blob/main/dashboa
 Данный дашборд представляет собой анализ работы электрических зарядных станций (ЭЗС) компании за период с 01.01.2021 по 31.12.2022. Он содержит информацию о количестве и продолжительности зарядных сессий, а также о доходе, полученном с каждой локации.
 
 ### KPI Analytics
-some text
+<img src="https://github.com/chvladimirova/chvladimirova/assets/69518110/7cdd5ed4-a59d-47b8-8969-09bf73443183" width="360" height="230" > <img src="https://github.com/chvladimirova/chvladimirova/assets/69518110/39277ddf-c793-4e6a-b28a-8a1d6025cf8a" width="360" height="230" > 
 
 ### Cashflow Analytics
 <img src="https://github.com/chulpanvl00/chulpanvl00/assets/69518110/21a2d69e-c325-4b35-8a62-8f270b60e2f1" width="360" height="230" > <img src="https://github.com/chulpanvl00/chulpanvl00/assets/69518110/c060e665-5e6f-4183-af77-002f9667945d" width="360" height="230" > 
