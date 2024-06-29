@@ -15,7 +15,7 @@ Download .pbix [here](https://github.com/chvladimirova/portfolio/blob/main/dashb
 <img src="https://github.com/chulpanvl00/chulpanvl00/assets/69518110/1c7384b5-8178-46eb-83ae-48b9101a1be3" width="600" height="340" >
 
 ### EVS Analytics
-Download .pbix [here](https://github.com/chulpanvl00/portfolio/blob/main/dashboards/EVS_dashboard.pbix).
+Download .pbix [here](https://github.com/chvladimirova/portfolio/blob/main/dashboards/EVS_dashboard.pbix).
 
 <img src="https://github.com/chulpanvl00/PowerBI-dashboards/assets/69518110/65f24140-77e6-4253-bea7-b67ae31fe056" width="600" height="340" >
 
